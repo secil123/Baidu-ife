@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<style type="text/css">
+	header{
+		background-color: #333;
+	}
+	header>ul<
+		float:right
+		margin-right:1em;
+	}
+</style>
+<head>
+	<title>DEMON TWO</title>
+	<meta charset="utf-8">
+	<meta name="author" content="secil">
+</head>
+<body>
+	<header>
+	<img src="images/baidulogo.png" alt="baidulogo" width="170" height="70">
+	<ul>
+		<li><a href="#">导航链接1</a></li>
+		<li><a href="#">导航链接2</a></li>
+		<li><a href="#">导航链接3</a></li>
+		<li><a href="#">导航链接4</a></li>
+
+
+</heardr>
+</body>
+</html>
